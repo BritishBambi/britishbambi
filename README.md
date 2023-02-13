@@ -1,4 +1,10 @@
-### Hi there 👋
+# Josef Jakubiak
+## Junior Software Developer
+
+### About me:
+
+I'm a 24 year old software developer from Yorkshire. I was a student at the code institute where I began my coding journey. Here I picked up skills across multiple languages over the course of a year. Having spent some time considerinng the future I am now on my next adventure to learnn more and keep applying skills in a proffesional enviroment. When I'm not pushing commits I'm usually playing video games or showing off my film/music taste. So if you want a chat I can easily go for hours on any of those topics.
+
 
 <!--
 **BritishBambi/britishbambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
